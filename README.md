@@ -6,6 +6,8 @@
 
 ![Logans GitHub stats](https://github-readme-stats.vercel.app/api?username=loganssoares&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganssoares)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Técnologias do meu dia a dia
 
 <div style="display_block"><br/>
